@@ -22,8 +22,8 @@
         android:id="@+id/tvName"
         android:layout_width="65dp"
         android:layout_height="25dp"
-        android:layout_marginTop="32dp"
-        android:layout_marginEnd="20dp"
+        android:layout_marginTop="28dp"
+        android:layout_marginEnd="4dp"
         app:layout_constraintEnd_toEndOf="@+id/tvTelNo"
         app:layout_constraintTop_toTopOf="parent"
         tools:text="Liz Mburu" />
@@ -42,7 +42,6 @@
         android:id="@+id/tvEmail"
         android:layout_width="70dp"
         android:layout_height="22dp"
-        android:layout_marginTop="8dp"
         android:layout_marginEnd="4dp"
         android:layout_marginBottom="24dp"
         app:layout_constraintBottom_toBottomOf="parent"
